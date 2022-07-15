@@ -1,0 +1,162 @@
+body {
+    margin: 0;
+}
+
+.header-section {
+    display: flex;
+}
+
+.header-div2 {
+    margin: 0 23%;
+}
+
+.header-div2>h1 {
+    font-size: 50px;
+    margin: 30px 0 0 0;
+}
+
+.header-div2>p {
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orangered;
+    margin: 0;
+}
+
+.navigation-top>ul {
+    list-style-type: none;
+    background-color: black;
+    padding-left: 800px;
+    margin: 0;
+}
+
+.navigation-top>ul>li {
+    display: inline-table;
+    padding: 10px 25px;
+}
+
+.navigation-top>ul>li:hover {
+    background-color: green;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.banner {
+    padding: 425px 0;
+    margin: 0;
+    background-image: url("image/banner.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 2100px 1300px;
+}
+
+.article-1 {
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    border-top: 10px solid tomato;
+}
+
+.div-1 {
+    margin: 150px 0 0 180px;
+}
+
+.div-1>h1 {
+    font-size: 25px;
+}
+
+.div-1>p {
+    margin-bottom: 50px;
+    font-weight: 500;
+    color: dimgray;
+
+}
+
+.div-2 {
+    background-color: gainsboro;
+
+    margin: 100px 100px 100px 50px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px;
+}
+
+.learn-more {
+    background-color: tomato;
+    padding: 17px 25px;
+    border-radius: 30px;
+}
+
+.learn-more:hover {
+    background-color: brown;
+}
+
+.article-3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(46, 46, 203);
+    height: 600px;
+    margin-top: 50px;
+    padding-top: 50px;
+
+}
+
+.div-6 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    text-shadow: 3px 3px 5px black;
+}
+
+.div-789main {
+    display: flex;
+    margin-left: 150px;
+}
+
+.div-789main>div {
+    margin: 50px;
+    background-color: white;
+    width: 300px;
+    padding-bottom: 50px;
+    box-shadow: 5px 5px 10px;
+    border-radius: 10px;
+}
+
+.border-down {
+    border-bottom: 5px solid orange;
+    padding: 0 0 10px 20px;
+
+
+}
+
+.package {
+    margin-left: 20px;
+}
+
+.div-7 {}
+
+.div-8 {}
+
+.div-9 {}
+
+.font-size>h3 {
+    font-size: 50px;
+}
+
+.font-size>package-1 {
+    font-size: 40px;
+}
+
+.package-span {
+    font-size: 120px;
+}
+
+.free {
+    margin: 50px 0 0 50px;
+}
+
+.free>header {
+    font-size: 30px;
+}
